@@ -1,2 +1,3 @@
-# Curso-Henrry
-Este es un repositorio de prueba del modeulo del curso de Henrry
+Mauricio Ramirez Restrepo
+
+Este proyecto es una prueba de como crear un repositorio y como clonarlo a mi escritorio local
